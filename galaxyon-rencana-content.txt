@@ -3,9 +3,11 @@ RENCANA CONTENT GALAXYON
 - Javascripst
  . ES6
  . Frameworks Javascript
-   ^ Angular
+   ^ Vue
    ^ React
-   - Php framework
-     ^ Laravel
+ - Struktur data dasar
+- Php frameworks
+  ^ Laravel
 - Interview
 - Vlog
+- Python
