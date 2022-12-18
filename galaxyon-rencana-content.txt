@@ -3,6 +3,7 @@ RENCANA CONTENT GALAXYON
 - Javascripst
  . ES6
  . Frameworks Javascript
+ - Struktur data dasar
 - Php frameworks
 - Interview
 - Vlog
