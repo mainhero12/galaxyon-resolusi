@@ -4,6 +4,7 @@ RENCANA CONTENT GALAXYON
  . ES6
  . Frameworks Javascript
    ^ Vue
+   ^ React
  - Struktur data dasar
 - Php frameworks
   ^ Laravel
